@@ -29,6 +29,9 @@ url: "http://hhvm.com"
 # The GitHub repo for your project
 ghrepo: "hhvm/hhvm.com"
 
+# Automatically hide posts, of which the date is in the future
+future: true
+
 # Use these color settings to determine your colour scheme for the site.
 color:
   # primary should be a vivid color that reflects the project's brand
